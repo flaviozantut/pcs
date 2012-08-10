@@ -3,7 +3,7 @@
 
 ### PHP Coding Standards Fixer
 
-	Adaptation of http://cs.sensiolabs.org/
+Adaptation of http://cs.sensiolabs.org/
 
 ## Installation
 
