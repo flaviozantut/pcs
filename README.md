@@ -11,16 +11,21 @@ Installation with Laravel Artisan
 
 	php artisan bundle:install pcs
 
-### Bundle Registration
+##Bundle Registration
 
 	'pcs',
+
+##Usage
+
+	php artisan pcs::build fix controllers --level=all
+
 
 
 ## License
 
 	The MIT License
 
-	Copyright (C) 2012 by Mior Muhammad Zaki <http://git.io/crynobone> 
+	Copyright (C) 2012 by Mior Muhammad Zaki  
 
 	Permission is hereby granted, free of charge, to any person obtaining a copy
 	of this software and associated documentation files (the "Software"), to deal
@@ -39,4 +44,3 @@ Installation with Laravel Artisan
 	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 	THE SOFTWARE.
-
