@@ -17,7 +17,7 @@ Installation with Laravel Artisan
 
 ##Usage
 
-	php artisan pcs::build fix [controllers|libraries|models] --level=all
+	php artisan pcs::build fix [controllers|libraries|models|/] --level=all
 	
 ##Example
 		php artisan pcs::build fix controllers --level=all
